@@ -17,7 +17,7 @@ I have successfully passed HackerRank skill assessment exams and earned the foll
 
 | Certificate Name | Level | Status | Direct File Link |
 | :--- | :---: | :---: | :--- |
-| **Python (Basic)** | Basic | ✅ Verified | [View Certificate](./Certificates/python_basic%20certificate.pdf) |
+| **Python (Basic)** | Basic | ✅ Verified | [View Certificate](./python_basic%20certificate.pdf) |
 | **Problem Solving (Basic)** | Basic | ✅ Verified | [View Certificate](./Certificates/problem_solving_basic%20certificate.pdf) |
 | **Problem Solving (Intermediate)** | Intermediate | ✅ Verified | [View Certificate](./Certificates/problem_solving_intermediate%20certificate.pdf) |
 
